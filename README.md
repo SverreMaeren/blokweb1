@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Maeren Griffioen
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
@@ -36,13 +36,15 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://electric.veloretti.com/nl/products/ivy?variant=Ivy+Pebble+Grey/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
+ ![image](https://user-images.githubusercontent.com/90326173/132529848-a5939d2a-3809-44b2-bc80-b108136884c8.png)
 hier de naam van de pagina  
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
+ ![image](https://user-images.githubusercontent.com/90326173/132530030-beaab60c-162c-4f35-940f-40648ba14490.png)
 hier de naam van de pagina  
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
